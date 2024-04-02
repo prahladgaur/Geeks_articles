@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "title": "Web 4.0 - Intelligent Web",
+      "link": "https://www.geeksforgeeks.org/web-4-0-intelligent-web/"
+    },
+    {
+      "id": 2,
+      "title": "Layout Tab in Google Chrome Browser",
+      "link": "https://www.geeksforgeeks.org/layout-tab-in-google-chrome-browser/"
+    },
+    {
+      "id": 3,
+      "title": "Implementing Regular Expression Matching",
+      "link": "https://www.geeksforgeeks.org/implementing-regular-expression-matching/"
+    },
+    {
+        "id": 4,
+        "title": "React-Bootstrap Dropdown items",
+        "link": "https://www.geeksforgeeks.org/react-bootstrap-dropdown-items/"
+      },
+      {
+        "id": 5,
+        "title": "Role of Hooks in Functional Components.",
+        "link": "https://www.geeksforgeeks.org/role-of-hooks-in-functional-components/"
+      },
+      {
+        "id": 6,
+        "title": "How does a pure component differ from a functional component?",
+        "link": "https://www.geeksforgeeks.org/how-does-a-pure-component-differ-from-a-functional-component/"
+      },
+      {
+        "id": 7,
+        "title": "What is React Router?",
+        "link": "https://www.geeksforgeeks.org/what-is-react-router/"
+      }
+      ,
+      {
+        "id": 8,
+        "title": "What is Quantitative Data Analysis?",
+        "link": "https://www.geeksforgeeks.org/what-is-quantitative-data-analysis/"
+      },
+      {
+        "id": 9,
+        "title": "How to Print a String in JavaScript ?",
+        "link": "https://www.geeksforgeeks.org/how-to-print-a-string-in-javascript/"
+      },
+      {
+        "id": 10,
+        "title": "How to Create Cards in Bootstrap ?",
+        "link": "https://www.geeksforgeeks.org/how-to-create-cards-in-bootstrap/"
+      },
+      {
+        "id": 11,
+        "title": "How to manage global state in a React application?",
+        "link": "https://www.geeksforgeeks.org/how-to-manage-global-state-in-a-react-application/"
+      },
+      {
+        "id": 12,
+        "title": "How to Deploy Node Backend on Vercel ?",
+        "link": "https://www.geeksforgeeks.org/how-to-deploy-node-backend-on-vercel/"
+      },
+      {
+        "id": 13,
+        "title": "How to Implement Caching in React Redux applications ?",
+        "link": "https://www.geeksforgeeks.org/how-to-implement-caching-in-react-redux-applications/"
+      },
+      {
+        "id": 14,
+        "title": "Building Custom Hooks Library in React",
+        "link": "https://www.geeksforgeeks.org/building-custom-hooks-library-in-react/"
+      },
+      {
+        "id": 15,
+        "title": "Implementing Internationalization in React Components",
+        "link": "https://www.geeksforgeeks.org/implementing-internationalization-in-react-components/"
+      },
+      {
+        "id": 16,
+        "title": "How to Deploy JavaScript Apps with Netlify ?",
+        "link": "https://www.geeksforgeeks.org/how-to-deploy-javascript-apps-with-netlify/"
+      }
+
+  ]
+  
