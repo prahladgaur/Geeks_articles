@@ -79,7 +79,47 @@
         "id": 16,
         "title": "How to Deploy JavaScript Apps with Netlify ?",
         "link": "https://www.geeksforgeeks.org/how-to-deploy-javascript-apps-with-netlify/"
-      }
+      },
+     {
+        "id": 17,
+        "title": "What is Memoization in React ?",
+        "link": "https://www.geeksforgeeks.org/what-is-memoization-in-react/"
+      },
+     {
+        "id": 18,
+        "title": "Adding Internationalization (i18n) in Next.js Application",
+        "link": "https://www.geeksforgeeks.org/adding-internationalization-i18n-in-next-js-application/"
+      },
+     {
+        "id": 19,
+        "title": "Implementing Internationalization in React Components",
+        "link": "https://www.geeksforgeeks.org/implementing-internationalization-in-react-components/"
+      },
+     {
+        "id": 20,
+        "title": "How to Hide a Paragraph Under an Image ?",
+        "link": "https://www.geeksforgeeks.org/how-to-hide-a-paragraph-under-an-image/"
+      },
+     {
+        "id": 21,
+        "title": "Lazy Loading in Next.js",
+        "link": "https://www.geeksforgeeks.org/lazy-loading-in-next-js/"
+      },
+     {
+        "id": 22,
+        "title": "ARIA Attributes in React Accessibility",
+        "link": "https://www.geeksforgeeks.org/aria-attributes-in-react-accessibility/"
+      },
+     {
+        "id": 23,
+        "title": "How does a Pure Component Differ from a Regular Component ?",
+        "link": "https://www.geeksforgeeks.org/how-does-a-pure-component-differ-from-a-regular-component/"
+      },
+     {
+        "id": 24,
+        "title": "What is react-router-dom ?(improvement)",
+        "link": "https://www.geeksforgeeks.org/what-is-react-router-dom/"
+      },
 
   ]
   
